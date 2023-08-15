@@ -1,5 +1,8 @@
-# Alura-Challenge-2-Conversor
-Oracle next education back-end Bootcamp second challenge.
+# Oracle One Challenge 2: Currency Conversor 1.0
+
+![insignia java](https://github.com/sirprintalot/converterTest/assets/112592173/3897a332-ce5d-4aa9-8386-7b4761474fe2)
+
+## Oracle next education back-end Bootcamp second challenge.
 Welcome to the Currency Converter App repository! This application allows you to convert between different currencies using a user-friendly graphical interface with the Java Swing library.
 
 <img width="499" alt="Screenshot 2023-08-14 at 22 54 51" src="https://github.com/sirprintalot/converterTest/assets/112592173/f280945b-2ac4-436f-ab90-e9c86a8f7b4b">
@@ -15,9 +18,12 @@ Welcome to the Currency Converter App repository! This application allows you to
 
 
 - Clear function for convenience.
-- <img width="502" alt="Screenshot 2023-08-14 at 23 00 05" src="https://github.com/sirprintalot/converterTest/assets/112592173/e26999b8-b53e-40d3-972e-b770e8aa850e">
 
--Input validation in case of incorrect amount or character.
+<img width="502" alt="Screenshot 2023-08-14 at 23 00 05" src="https://github.com/sirprintalot/converterTest/assets/112592173/e26999b8-b53e-40d3-972e-b770e8aa850e">
+
+
+- Input validation in case of incorrect amount or character.
+
 <img width="502" alt="Screenshot 2023-08-14 at 23 00 26" src="https://github.com/sirprintalot/converterTest/assets/112592173/c50aaebe-0760-47b1-8c19-8f42a59848dd">
 
 ## How to Use
